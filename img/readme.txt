@@ -1,0 +1,1 @@
+A Static non-responsive HTML page styled with CSS
